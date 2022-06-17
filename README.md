@@ -1,3 +1,7 @@
 ## T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling
 
-Code and data will be released soon.
+The paper is accepted to KDD 2022. Code and data will be released soon.
+
+- [ ] code
+- [x] data
+ 
