@@ -1,6 +1,6 @@
 ## T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling
 
-The paper by [Yiren Jian](https://cs.dartmouth.edu/~yirenjian/), [Erik Kruus](https://www.nec-labs.com/research/machine-learning/people/erik-kruus/) and Martin [Renqiang Min](https://www.cs.toronto.edu/~cuty/) is accepted to ACM SIGKDD (KDD) 2022.
+The paper by [Yiren Jian](https://cs.dartmouth.edu/~yirenjian/), [Erik Kruus](https://www.nec-labs.com/research/machine-learning/people/erik-kruus/) and [Martin Renqiang Min](https://www.cs.toronto.edu/~cuty/) is accepted to ACM SIGKDD (KDD) 2022.
 
 - [ ] paper
 - [x] code
