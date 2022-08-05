@@ -1,0 +1,81 @@
+EXPDTA    THEORETICAL MODEL, MODELLER 10.1 2021/09/22 16:59:41
+REMARK   6 MODELLER OBJECTIVE FUNCTION:        30.3339
+REMARK   6 MODELLER BEST TEMPLATE % SEQ ID:  44.444
+REMARK   6 SEQUENCE: my
+REMARK   6 ALIGNMENT: my-2bsyA.ali
+REMARK   6 SCRIPT: peptide_build.py
+REMARK   6 DOPE score: -188.17142
+REMARK   6 GA341 score: 0.26608
+REMARK   6 TEMPLATE: 2bsyA 240:A - 248:A MODELS 1:A - 9:A AT 44.4%
+ATOM      1  N   LEU A   1       1.118   8.858  25.732  1.00 17.50           N
+ATOM      2  CA  LEU A   1       2.302   8.811  24.844  1.00 17.50           C
+ATOM      3  CB  LEU A   1       2.136   9.801  23.680  1.00 17.50           C
+ATOM      4  CG  LEU A   1       0.955   9.441  22.759  0.50 17.50           C
+ATOM      5  CD1 LEU A   1       0.834  10.433  21.595  0.50 17.50           C
+ATOM      6  CD2 LEU A   1       1.029   7.973  22.303  0.50 17.50           C
+ATOM      7  C   LEU A   1       3.538   9.143  25.608  1.00 17.50           C
+ATOM      8  O   LEU A   1       3.673   8.773  26.776  1.00 17.50           O
+ATOM      9  N   MET A   2       4.485   9.848  24.962  1.00116.06           N
+ATOM     10  CA  MET A   2       5.713  10.159  25.633  1.00116.06           C
+ATOM     11  CB  MET A   2       6.936  10.267  24.710  1.00116.06           C
+ATOM     12  CG  MET A   2       7.369   8.945  24.077  1.00116.06           C
+ATOM     13  SD  MET A   2       6.335   8.387  22.689  1.00116.06           S
+ATOM     14  CE  MET A   2       6.957   9.622  21.510  1.00116.06           C
+ATOM     15  C   MET A   2       5.587  11.480  26.315  1.00116.06           C
+ATOM     16  O   MET A   2       4.978  12.416  25.795  1.00116.06           O
+ATOM     17  N   LEU A   3       6.180  11.581  27.518  1.00 97.88           N
+ATOM     18  CA  LEU A   3       6.127  12.801  28.264  1.00 97.88           C
+ATOM     19  CB  LEU A   3       5.751  12.617  29.740  1.00 97.88           C
+ATOM     20  CG  LEU A   3       6.932  12.042  30.551  1.00 97.88           C
+ATOM     21  CD1 LEU A   3       6.570  11.857  32.031  1.00 97.88           C
+ATOM     22  CD2 LEU A   3       7.496  10.763  29.906  1.00 97.88           C
+ATOM     23  C   LEU A   3       7.516  13.356  28.302  1.00 97.88           C
+ATOM     24  O   LEU A   3       8.496  12.631  28.146  1.00 97.88           O
+ATOM     25  N   TRP A   4       7.627  14.682  28.479  1.00 75.57           N
+ATOM     26  CA  TRP A   4       8.903  15.314  28.618  1.00 75.57           C
+ATOM     27  CB  TRP A   4       8.897  16.780  28.159  1.00 75.57           C
+ATOM     28  CG  TRP A   4       7.640  17.500  28.580  1.00 75.57           C
+ATOM     29  CD2 TRP A   4       6.516  17.650  27.701  1.00 75.57           C
+ATOM     30  CD1 TRP A   4       7.294  18.099  29.758  1.00 75.57           C
+ATOM     31  NE1 TRP A   4       6.016  18.605  29.666  1.00 75.57           N
+ATOM     32  CE2 TRP A   4       5.527  18.337  28.402  1.00 75.57           C
+ATOM     33  CE3 TRP A   4       6.322  17.241  26.410  1.00 75.57           C
+ATOM     34  CZ2 TRP A   4       4.325  18.628  27.820  1.00 75.57           C
+ATOM     35  CZ3 TRP A   4       5.110  17.538  25.825  1.00 75.57           C
+ATOM     36  CH2 TRP A   4       4.132  18.218  26.518  1.00 75.57           C
+ATOM     37  C   TRP A   4       9.304  15.242  30.054  1.00 75.57           C
+ATOM     38  O   TRP A   4       8.472  15.126  30.952  1.00 75.57           O
+ATOM     39  N   ALA A   5      10.625  15.309  30.292  1.00 36.90           N
+ATOM     40  CA  ALA A   5      11.147  15.186  31.615  1.00 36.90           C
+ATOM     41  CB  ALA A   5      12.685  15.263  31.676  1.00 36.90           C
+ATOM     42  C   ALA A   5      10.590  16.287  32.445  1.00 36.90           C
+ATOM     43  O   ALA A   5      10.319  17.386  31.963  1.00 36.90           O
+ATOM     44  N   SER A   6      10.359  15.983  33.735  1.00 50.27           N
+ATOM     45  CA  SER A   6       9.886  17.026  34.579  1.00 50.27           C
+ATOM     46  CB  SER A   6       9.498  16.554  35.992  1.00 50.27           C
+ATOM     47  OG  SER A   6      10.623  15.981  36.639  0.50 50.27           O
+ATOM     48  C   SER A   6      11.025  17.976  34.652  1.00 50.27           C
+ATOM     49  O   SER A   6      12.173  17.572  34.834  1.00 50.27           O
+ATOM     50  N   SER A   7      10.736  19.274  34.484  1.00 89.89           N
+ATOM     51  CA  SER A   7      11.811  20.211  34.432  1.00 89.89           C
+ATOM     52  CB  SER A   7      11.376  21.633  34.042  1.00 89.89           C
+ATOM     53  OG  SER A   7      10.527  22.165  35.049  1.00 89.89           O
+ATOM     54  C   SER A   7      12.429  20.301  35.777  1.00 89.89           C
+ATOM     55  O   SER A   7      11.760  20.177  36.799  1.00 89.89           O
+ATOM     56  N   SER A   8      13.761  20.479  35.790  1.00 76.02           N
+ATOM     57  CA  SER A   8      14.447  20.706  37.019  1.00 76.02           C
+ATOM     58  CB  SER A   8      15.887  20.172  37.038  1.00 76.02           C
+ATOM     59  OG  SER A   8      16.483  20.448  38.296  1.00 76.02           O
+ATOM     60  C   SER A   8      14.521  22.185  37.133  1.00 76.02           C
+ATOM     61  O   SER A   8      14.193  22.898  36.181  1.00 76.02           O
+ATOM     62  N   ILE A   9      14.929  22.695  38.302  1.00 15.94           N
+ATOM     63  CA  ILE A   9      15.044  24.114  38.429  1.00 15.94           C
+ATOM     64  CB  ILE A   9      14.730  24.618  39.805  1.00 15.94           C
+ATOM     65  CG1 ILE A   9      13.274  24.294  40.170  1.00 15.94           C
+ATOM     66  CG2 ILE A   9      15.063  26.115  39.838  1.00 15.94           C
+ATOM     67  CD1 ILE A   9      12.947  24.493  41.649  1.00 15.94           C
+ATOM     68  C   ILE A   9      16.501  24.467  38.153  1.00 15.94           C
+ATOM     69  O   ILE A   9      16.743  25.305  37.243  1.00 15.94           O
+ATOM     70  OXT ILE A   9      17.388  23.915  38.859  1.00 15.94           O
+TER      71      ILE A   9
+END

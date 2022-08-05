@@ -1,0 +1,78 @@
+EXPDTA    THEORETICAL MODEL, MODELLER 10.1 2021/09/22 16:59:05
+REMARK   6 MODELLER OBJECTIVE FUNCTION:        49.3913
+REMARK   6 MODELLER BEST TEMPLATE % SEQ ID:  66.667
+REMARK   6 SEQUENCE: my
+REMARK   6 ALIGNMENT: my-2cjsA.ali
+REMARK   6 SCRIPT: peptide_build.py
+REMARK   6 DOPE score: -327.96680
+REMARK   6 GA341 score: 0.09851
+REMARK   6 TEMPLATE: 2cjsA 25:A - 113:A MODELS 1:A - 9:A AT 66.7%
+ATOM      1  N   THR A   1      12.828   9.451   6.970  1.00 24.32           N
+ATOM      2  CA  THR A   1      11.757   9.596   7.986  0.70 24.32           C
+ATOM      3  CB  THR A   1      10.742  10.592   7.512  0.70 24.32           C
+ATOM      4  OG1 THR A   1      11.373  11.848   7.306  0.70 24.32           O
+ATOM      5  CG2 THR A   1       9.642  10.721   8.584  0.70 24.32           C
+ATOM      6  C   THR A   1      11.105   8.280   8.293  1.00 24.32           C
+ATOM      7  O   THR A   1      11.497   7.612   9.247  1.00 24.32           O
+ATOM      8  N   LEU A   2      10.092   7.851   7.507  1.00118.17           N
+ATOM      9  CA  LEU A   2       9.485   6.588   7.822  1.00118.17           C
+ATOM     10  CB  LEU A   2       7.941   6.632   7.955  1.00118.17           C
+ATOM     11  CG  LEU A   2       7.172   7.485   6.928  1.00118.17           C
+ATOM     12  CD1 LEU A   2       7.220   6.888   5.517  1.00118.17           C
+ATOM     13  CD2 LEU A   2       5.732   7.749   7.406  1.00118.17           C
+ATOM     14  C   LEU A   2       9.905   5.539   6.832  1.00118.17           C
+ATOM     15  O   LEU A   2       9.645   5.627   5.633  1.00118.17           O
+ATOM     16  N   PHE A   3      10.660   4.548   7.346  1.00154.81           N
+ATOM     17  CA  PHE A   3      11.114   3.390   6.632  1.00154.81           C
+ATOM     18  CB  PHE A   3      12.372   2.752   7.238  1.00154.81           C
+ATOM     19  CG  PHE A   3      13.453   3.737   6.958  1.00154.81           C
+ATOM     20  CD1 PHE A   3      14.022   3.808   5.707  1.00154.81           C
+ATOM     21  CD2 PHE A   3      13.867   4.618   7.929  1.00154.81           C
+ATOM     22  CE1 PHE A   3      15.012   4.720   5.437  1.00154.81           C
+ATOM     23  CE2 PHE A   3      14.859   5.533   7.666  1.00154.81           C
+ATOM     24  CZ  PHE A   3      15.433   5.587   6.417  1.00154.81           C
+ATOM     25  C   PHE A   3      10.037   2.353   6.514  1.00154.81           C
+ATOM     26  O   PHE A   3       9.998   1.611   5.532  1.00154.81           O
+ATOM     27  N   THR A   4       9.133   2.277   7.514  1.00198.48           N
+ATOM     28  CA  THR A   4       8.160   1.220   7.567  1.00198.48           C
+ATOM     29  CB  THR A   4       7.212   1.343   8.732  1.00198.48           C
+ATOM     30  OG1 THR A   4       6.396   0.185   8.808  1.00198.48           O
+ATOM     31  CG2 THR A   4       6.337   2.597   8.569  1.00198.48           C
+ATOM     32  C   THR A   4       7.380   1.191   6.291  1.00198.48           C
+ATOM     33  O   THR A   4       7.213   0.129   5.696  1.00198.48           O
+ATOM     34  N   MET A   5       6.888   2.346   5.813  1.00306.84           N
+ATOM     35  CA  MET A   5       6.228   2.330   4.543  1.00306.84           C
+ATOM     36  CB  MET A   5       4.807   2.919   4.544  1.00306.84           C
+ATOM     37  CG  MET A   5       4.827   4.440   4.693  1.00306.84           C
+ATOM     38  SD  MET A   5       3.252   5.277   4.378  1.00306.84           S
+ATOM     39  CE  MET A   5       3.934   6.933   4.674  1.00306.84           C
+ATOM     40  C   MET A   5       7.021   3.258   3.695  1.00306.84           C
+ATOM     41  O   MET A   5       7.502   4.289   4.163  1.00306.84           O
+ATOM     42  N   VAL A   6       7.221   2.912   2.417  1.00265.84           N
+ATOM     43  CA  VAL A   6       7.931   3.863   1.624  1.00265.84           C
+ATOM     44  CB  VAL A   6       8.522   3.284   0.374  1.00265.84           C
+ATOM     45  CG1 VAL A   6       9.603   2.282   0.804  1.00265.84           C
+ATOM     46  CG2 VAL A   6       7.408   2.648  -0.469  1.00265.84           C
+ATOM     47  C   VAL A   6       6.930   4.912   1.272  1.00265.84           C
+ATOM     48  O   VAL A   6       5.897   4.636   0.665  1.00265.84           O
+ATOM     49  N   GLY A   7       7.208   6.165   1.663  1.00141.21           N
+ATOM     50  CA  GLY A   7       6.229   7.173   1.417  1.00141.21           C
+ATOM     51  C   GLY A   7       6.929   8.338   0.825  1.00141.21           C
+ATOM     52  O   GLY A   7       8.095   8.593   1.119  1.00141.21           O
+ATOM     53  N   THR A   8       6.199   9.077  -0.031  1.00122.26           N
+ATOM     54  CA  THR A   8       6.753  10.211  -0.692  1.00122.26           C
+ATOM     55  CB  THR A   8       7.099   9.934  -2.127  1.00122.26           C
+ATOM     56  OG1 THR A   8       5.940   9.568  -2.860  1.00122.26           O
+ATOM     57  CG2 THR A   8       8.115   8.779  -2.146  1.00122.26           C
+ATOM     58  C   THR A   8       5.720  11.280  -0.632  1.00122.26           C
+ATOM     59  O   THR A   8       4.626  11.067  -0.112  1.00122.26           O
+ATOM     60  N   VAL A   9       6.057  12.476  -1.148  1.00 64.75           N
+ATOM     61  CA  VAL A   9       5.148  13.578  -1.073  1.00 64.75           C
+ATOM     62  CB  VAL A   9       5.674  14.819  -1.715  1.00 64.75           C
+ATOM     63  CG1 VAL A   9       5.521  14.676  -3.238  1.00 64.75           C
+ATOM     64  CG2 VAL A   9       4.966  16.035  -1.097  1.00 64.75           C
+ATOM     65  C   VAL A   9       3.876  13.207  -1.817  1.00 64.75           C
+ATOM     66  O   VAL A   9       2.812  13.800  -1.502  1.00 64.75           O
+ATOM     67  OXT VAL A   9       3.957  12.332  -2.723  1.00 64.75           O
+TER      68      VAL A   9
+END
