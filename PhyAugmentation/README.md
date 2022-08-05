@@ -1,6 +1,6 @@
 ## **PhyAugmentation by HDOCK for T-cell Receptors and Peptides**
 
-This repo covers implementation of running HDOCK to compute pseudo-labels used in *T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling (KDD 2022)* by Yiren Jian, Erik Kruus and Martin Renqiang Min.
+This repo covers implementation of running HDOCK to compute pseudo-labels used in **T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling (KDD 2022)** by Yiren Jian, Erik Kruus and Martin Renqiang Min.
 
 TL,DR: `python main.py 10000` and results are stores in `results.txt`.
 
@@ -10,48 +10,49 @@ TL,DR: `python main.py 10000` and results are stores in `results.txt`.
 #### Requirements
 
 - Install Anaconda and create a environment
-```
+```bash
 wget https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh
 bash Anaconda3-2021.05-Linux-x86_64.sh
 ```
 Remember to answer `yes` for appending the PATH to `.bashrc`. Once Anaconda is installed, create a environment for the project and activate it.
-```
+```bash
 conda create -n modeller python=3.7
 conda activate modeller
 ```
 
 - Install a standalone blast+ package and blastdb Database
 The official guide can be found [here](https://www.ncbi.nlm.nih.gov/books/NBK52640/)
-```
+```bash
 wget https://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/ncbi-blast-2.12.0+-x64-linux.tar.gz  
 tar zxvpf ncbi-blast-2.12.0+-x64-linux.tar.gz
 export PATH=$PATH:$HOME/ncbi-blast-2.12.0+/bin
 ```
 Create a blast database
-```
+```bash
 mkdir $HOME/blastdb
 export BLASTDB=$HOME/blastdb
 ```
 Download the PDB amino acids database
-```
+```bash
 cd $HOME/blastdb
 perl $HOME/ncbi-blast-2.12.0+/bin/update_blastdb.pl --passive --decompress pdbaa
 ```
 
 - Install Biopython as the interface for blast+
-```
+```bash
 pip install biopython
 ```
 
 - Install MODELLER
-```
+```bash
 conda config --add channels salilab
 conda install modeller
 ```
 
 #### Structure building
 `build.py` is the script for building structures.
-```
+
+```python
 import wget
 import argparse
 import os
@@ -132,14 +133,17 @@ def main():
 
 if __name__ == '__main__':
     main()
-
 ```
+
 `build.py` takes a fasta (for example, `TCR.fasta`) sequence as input. The fasta sequence looks like the following
 ```
 CASSQEEGGGSWGNTIYF
 ```
+
 create a new working directory by `mkdir example`, put `build.py` and `TCR.fasta` in it. And run the command
-```
+
+```bash
 python build.py --fasta_sequence TCR.fasta
 ```
+
 The only output is `TCR.B99990001.pdb`.
