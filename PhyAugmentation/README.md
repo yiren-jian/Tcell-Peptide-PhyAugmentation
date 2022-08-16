@@ -1,6 +1,8 @@
 ## **PhyAugmentation by HDOCK for T-cell Receptors and Peptides**
 
-This repo covers implementation of running HDOCK to compute pseudo-labels used in **T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling (KDD 2022)** by Yiren Jian, Erik Kruus and Martin Renqiang Min.
+This repo covers implementation of running HDOCK to compute pseudo-labels used in **T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling (KDD 2022)** by Yiren Jian, Erik Kruus and Martin Renqiang Min. 
+
+You will also need standalone [hdock](http://hdock.phys.hust.edu.cn/) program in main directory.
 
 TL,DR: `python main.py 10000` and results are stores in `results.txt`.
 
