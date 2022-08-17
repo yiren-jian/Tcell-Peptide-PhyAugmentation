@@ -2,8 +2,6 @@
 
 The **[paper](https://dl.acm.org/doi/10.1145/3534678.3539075)** by [Yiren Jian](https://cs.dartmouth.edu/~yirenjian/), [Erik Kruus](https://www.nec-labs.com/research/machine-learning/people/erik-kruus/) and [Martin Renqiang Min](https://www.cs.toronto.edu/~cuty/) is accepted to ACM SIGKDD (KDD) 2022. The work is done while Yiren doing an internship at **[NEC Labs America](https://www.nec-labs.com/)**.
 
-<img src="overview.png" width="600">
-
 - [ ] paper
 - [x] code
 - [x] data
