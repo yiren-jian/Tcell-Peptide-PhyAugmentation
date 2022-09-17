@@ -7,21 +7,12 @@ The **[paper](https://dl.acm.org/doi/10.1145/3534678.3539075)** by [Yiren Jian](
 - [x] data
 
 ```bibtex
-@inproceedings{jian-etal-2022-Tcell,
-  author = {Jian, Yiren and Kruus, Erik and Min, Martin Renqiang},
-  title = {T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling},
-  year = {2022},
-  isbn = {9781450393850},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3534678.3539075},
-  doi = {10.1145/3534678.3539075},
-  booktitle = {Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
-  pages = {3090–3097},
-  numpages = {8},
-  keywords = {pseudo-labeling, T-cell receptors, docking energy, peptide recognition, deep neural network, physical modeling},
-  location = {Washington DC, USA},
-  series = {KDD '22}
+@inproceedings{jian2022t,
+  title={T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling},
+  author={Jian, Yiren and Kruus, Erik and Min, Martin Renqiang},
+  booktitle={Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={3090--3097},
+  year={2022}
 }
 ```
 
